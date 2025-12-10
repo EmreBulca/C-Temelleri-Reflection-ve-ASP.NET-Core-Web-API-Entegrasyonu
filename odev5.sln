@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odev5", "odev5\odev5.csproj", "{78735FB7-0EB9-4F30-B473-807908D205A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdevWebApi", "OdevWebApi\OdevWebApi.csproj", "{D93CDD48-BBF7-4725-BC11-6704ED3FB73D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78735FB7-0EB9-4F30-B473-807908D205A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78735FB7-0EB9-4F30-B473-807908D205A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78735FB7-0EB9-4F30-B473-807908D205A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78735FB7-0EB9-4F30-B473-807908D205A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D93CDD48-BBF7-4725-BC11-6704ED3FB73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93CDD48-BBF7-4725-BC11-6704ED3FB73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93CDD48-BBF7-4725-BC11-6704ED3FB73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93CDD48-BBF7-4725-BC11-6704ED3FB73D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
